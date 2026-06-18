@@ -397,6 +397,10 @@ Temporary Items
 .env
 dist
 
+# Web
+web/node_modules
+web/dist
+
 # npm lockfile — we use pnpm
 package-lock.json
 .webpack
